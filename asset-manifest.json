@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/SIH/static/css/main.8b5fded4.css",
-    "main.js": "/SIH/static/js/main.270c5612.js",
+    "main.css": "/SIH/static/css/main.9bf53778.css",
+    "main.js": "/SIH/static/js/main.0c509d67.js",
     "static/js/453.03e6160a.chunk.js": "/SIH/static/js/453.03e6160a.chunk.js",
     "static/media/logo.png": "/SIH/static/media/logo.e20433d149c452794c8a.png",
     "static/media/logo-line.png": "/SIH/static/media/logo-line.16229366d0099c76c478.png",
     "index.html": "/SIH/index.html",
-    "main.8b5fded4.css.map": "/SIH/static/css/main.8b5fded4.css.map",
-    "main.270c5612.js.map": "/SIH/static/js/main.270c5612.js.map",
+    "main.9bf53778.css.map": "/SIH/static/css/main.9bf53778.css.map",
+    "main.0c509d67.js.map": "/SIH/static/js/main.0c509d67.js.map",
     "453.03e6160a.chunk.js.map": "/SIH/static/js/453.03e6160a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b5fded4.css",
-    "static/js/main.270c5612.js"
+    "static/css/main.9bf53778.css",
+    "static/js/main.0c509d67.js"
   ]
 }
